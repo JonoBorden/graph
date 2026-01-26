@@ -1,0 +1,1372 @@
+[
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+        "@type": "WebSite",
+        "@id": "https://jonoborden.com",
+        "name": "Jono Borden",
+        "dateModified": "2026-01-25"
+      },
+{
+      "@type": "Person",
+      "@id": "https://jonoborden.com/#person",
+      "name": "Jono Borden",
+      "jobTitle": [
+        "Poet",
+        "Novelist",
+        "Lyricist",
+        "Screenwriter",
+        "Filmmaker",
+        "Occult Practitioner",
+        "Founder",
+        "Owner",
+        "Chairman",
+        "CEO",
+        "Publisher",
+        "Executive Producer"
+      ],
+      "description": "Jono Borden is a Canadian poet, novelist, lyricist, screenwriter, and filmmaker known for transgressive lyricism, occult symbolism, gothic aesthetics, dark eroticism, and experimental narrative forms. His works blend the mystical with the darkly sensual, creating an atmosphere that is as haunting as it is provocative. Borden's writing and films explore taboo subjects, utilizing gothic imagery, occult symbolism, and raw emotional landscapes. As an artist, he challenges traditional forms and navigates the uncanny and otherworldly with a visceral, transgressive voice. In addition to his creative works, Borden is a prominent figure in the occult community, offering tarot readings, ceremonial magic, and spiritual consultations through his practice, Aquilifer the Urban Hermit. His work is not only an exploration of the dark but a ritualistic reimagining of self and society.",
+      "url": "https://jonoborden.com",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/595becf1-c327-483e-904c-681626d0ec47/Jono+Borden+%282024+Portrait%29+%5BC%5D.png",
+      "birthDate": "1987-10-20",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Halifax, Nova Scotia, Canada"
+      },
+      "nationality": {
+        "@type": "Country",
+        "name": "Canada"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "url": "https://jonoborden.com/inquiry",
+        "contactType": "professional inquiry",
+        "availableLanguage": "English"
+      },
+      "agent": {
+        "@type": "Person",
+        "name": "Stephen Chatham",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Chatham Winthrop LLP",
+          "url": "https://chathamwinthrop.com"
+        },
+        "jobTitle": "Legal & Professional Representative"
+      },
+      "knowsAbout": [
+        "Marquis de Sade",
+        "18th Century Libertinism",
+        "Gothic Cinema",
+        "Ceremonial Magic (Thelemic/Solomonic)",
+        "Bibliographical Classification",
+        "Transgressive Literature",
+        "Poetry",
+        "Occult",
+        "Transgressive Art",
+        "Gothic Aesthetics",
+        "Dark Eroticism",
+        "Experimental Writing",
+        "Lyricism",
+        "Filmmaking",
+        "Transgressive Cinema",
+        "Occultism",
+        "Dark Arts",
+        "Spirituality",
+        "Tarot",
+        "Artistic Provocation"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "ISNI",
+          "value": "0000 0004 0170 9564"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "VIAF",
+          "value": "296221231"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Open Library",
+          "value": "OL7227063A"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "IMDb",
+          "value": "nm6249977"
+        }
+      ],
+      "sameAs": [
+        "https://amazon.com/Jono-Borden/e/B00VLFL7BO",
+        "https://genius.com/JonoBorden/",
+        "https://www.goodreads.com/author/show/24318181.Jono_Borden",
+        "https://imdb.me/JonoBorden",
+        "https://isni.org/isni/0000000401709564",
+        "http://viaf.org/viaf/296221231",
+        "https://openlibrary.org/authors/OL7227063A/Jono_Borden",
+        "https://soundcloud.com/jonoborden",
+        "https://x.com/bordenjono",
+        "https://youtube.com/@JonoBorden"
+      ],
+      "alumniOf": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "University of King's College",
+          "award": "Bachelor of Arts with Combined Honours in Early Modern Studies (Honours in Early Modern Studies and History)",
+          "description": "Specialization: Moral Philosophy of the Marquis de Sade, Eighteenth Century Print Culture",
+          "endDate": "2010"
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Dalhousie University",
+          "award": "Bachelor of Arts (Major in Religious Studies with a Minor in Film Studies)",
+          "description": "Notable Project: Music Video Treatments",
+          "endDate": "2014"
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Avon View High School",
+          "award": "Nova Scotia High School Graduation Diploma (Honours with Distinction)",
+          "endDate": "2006"
+        }
+      ],
+      "memberOf": [
+        { "@type": "Organization", "name": "Access Copyright", "url": "https://accesscopyright.ca/" },
+        { "@type": "Organization", "name": "ACTRA RACS", "url": "https://actraracs.ca/" },
+        { "@type": "Organization", "name": "ASCAP", "url": "https://ascap.com/" },
+        { "@type": "Organization", "name": "Audiam", "url": "https://www.audiam.com/" },
+        { "@type": "Organization", "name": "Canada Council for the Arts", "url": "https://canadacouncil.ca/" },
+        { "@type": "Organization", "name": "CMRRA", "url": "https://cmrra.ca/" },
+        { "@type": "Organization", "name": "CONNECT Music Licensing", "url": "https://connectmusic.ca/" },
+        { "@type": "Organization", "name": "Panorama", "url": "https://panorama.mu/" },
+        { "@type": "Organization", "name": "Public Lending Right Program", "url": "https://publiclendingright.ca/" },
+        { "@type": "Organization", "name": "SOCAN", "url": "https://socan.com/" },
+        { "@type": "Organization", "name": "Soproq", "url": "https://www.soproq.org/" },
+        { "@type": "Organization", "name": "Writers Guild of Canada", "url": "https://writersguildofcanada.com/" }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Style & Tone",
+          "value": "Transgressive, Gothic, Noir, High-Occult, Visceral, Erotic-Mystical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Thematic Pillars",
+          "value": "The intersection of carnal desire and spiritual ascension; the aesthetics of decay; the history of 18th-century libertinism; the ritualization of identity."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "NAICS Code",
+          "value": "711513"
+        }
+      ]
+    }
+  ]
+},
+    {
+      "@type": "Organization",
+      "@id": "https://jonoborden.com/#publisher",
+      "name": "Jono Borden Publishers, Inc.",
+      "foundingDate": "2025",
+      "description": "Book publishing company handling print and digital publishing of works by Jono Borden and affiliated writers.",
+      "url": "https://jonoborden.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/675639b8-3c37-4422-aefa-8f24546d3c89/logo+%284%29.png",
+      "address": {
+        "@type": "PostalAddress",
+        "postOfficeBoxNumber": "73",
+        "addressLocality": "Halifax Central, Halifax",
+        "addressRegion": "NS",
+        "postalCode": "B3J 2L4",
+        "addressCountry": "CA"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "url": "https://jonoborden.com/inquiry"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "NAICS Code",
+        "value": "513130"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://jonoborden.com/#records",
+      "name": "Jono Borden Records, Inc.",
+      "foundingDate": "2025",
+      "description": "Music production, recording, and audio services under the Jono Borden brand, encompassing both solo work and collaborations.",
+      "url": "https://jonobordenrecords.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/f6cbd472-638a-4abf-8106-e448eb5aa471/jb-records-logo-alpha-rs2+%282%29.png",
+      "address": {
+        "@type": "PostalAddress",
+        "postOfficeBoxNumber": "73",
+        "addressLocality": "Halifax Central, Halifax",
+        "addressRegion": "NS",
+        "postalCode": "B3J 2L4",
+        "addressCountry": "CA"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "NAICS Code",
+        "value": "512250"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://jonoborden.com/#cinema",
+      "name": "Ritualistic Pictures, Inc.",
+      "foundingDate": "2025",
+      "description": "Film production company producing dark, experimental cinema, often integrating occult and transgressive themes.",
+      "url": "https://ritualisticpictures.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/d60753f6-abe5-41a8-9024-3bc3cd6d6133/ritualistic-pictures-logo-transparent.png",
+      "address": {
+        "@type": "PostalAddress",
+        "postOfficeBoxNumber": "73",
+        "addressLocality": "Halifax Central, Halifax",
+        "addressRegion": "NS",
+        "postalCode": "B3J 2L4",
+        "addressCountry": "CA"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "NAICS Code",
+        "value": "512110"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://jonoborden.com/#spiritual",
+      "name": "Aquilifer the Urban Hermit Spiritual Services, Inc.",
+      "foundingDate": "2026",
+      "description": "Occult services company providing tarot readings, ceremonial magic, and ritual consulting under the magical name Aquilifer the Urban Hermit.",
+      "url": "https://aquilifertheurbanhermit.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/e8184e44-92e4-47d7-9bde-969d47ad72a1/aquilifer-signature-transparent.png",
+      "address": {
+        "@type": "PostalAddress",
+        "postOfficeBoxNumber": "73",
+        "addressLocality": "Halifax Central, Halifax",
+        "addressRegion": "NS",
+        "postalCode": "B3J 2L4",
+        "addressCountry": "CA"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "NAICS Code",
+        "value": "812990"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://jonoborden.com/#musicpub",
+      "name": "Poeta Non Grata Music, Inc.",
+      "foundingDate": "2026",
+      "description": "Music publishing company handling the administration of copyrights for Jono Borden's music and collaborations with other artists.",
+      "url": "https://poetanongrata.com",
+      "logo": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/d17a16e8-316c-4a5c-bc27-b5b6855540a6/jono-signature-alpha.png",
+      "address": {
+        "@type": "PostalAddress",
+        "postOfficeBoxNumber": "73",
+        "addressLocality": "Halifax Central, Halifax",
+        "addressRegion": "NS",
+        "postalCode": "B3J 2L4",
+        "addressCountry": "CA"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "NAICS Code",
+        "value": "512230"
+      }
+    },
+    {
+      "@type": "Book",
+      "name": "New Pornographies: A Backward Path to Heaven",
+      "isbn": ["978-1-990382-13-0", "978-1-990382-12-3", "978-1-990382-11-6", "9781990382130", "9781990382123", "9781990382116"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2027-10-19",
+      "genre": ["Erotic poetry", "Confessional poetry", "Lyrical poetry", "Gay poetry"],
+      "description": "A confessional, erotic noir-memoir blending gothic, transgressive verse with vivid imagery to confront pain, lust, and self-liberation.",
+      "url": "https://jonoborden.com/literature/p/new-pornographies",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/c8860b4f-ed4c-4ddb-87b1-4482852c5126/Jono+Borden+-+New+Pornographies+%28Front+Cover%29.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Gay pornography—Poetry, Gay men—Sexual behavior—Poetry, Magic—Erotic aspects—Poetry, Gay artists—Poetry, Parapsychology and sex—Poetry, Canadian poetry—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 N49 2027"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 N49 2027"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "811/.6—dc23" },
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728n"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBTQ+"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE023020 POETRY / Subjects & Themes / Love & Erotica"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL44273362W/New_Pornographies",
+    "https://www.goodreads.com/book/show/243079367-new-pornographies",
+    "https://www.google.ca/books/edition/New_Pornographies/xVJA0QEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Bullets in the Temple (To Open Closed Minds)",
+      "isbn": ["978-1-990382-07-9", "978-1-990382-06-2", "978-1-990382-05-5", "9781990382079", "9781990382062", "9781990382055"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2025-10-21",
+      "genre": ["Erotic poetry", "Paranormal poetry", "Lyrical poetry", "Gay poetry"],
+      "description": "A dreamlike exploration of subconscious symbols, blurring reality and fantasy, revealing wounds and artistic crimes committed in the depths of night.",
+      "url": "https://jonoborden.com/literature/p/bullets-in-the-temple",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/63e6939a-4657-459f-b2ed-46003a42c120/Jono+Borden+-+Bullets+in+the+Temple+%5BApproved+Cover%5D.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Human beings—Effect of the moon on—Poetry, Lucid dreams—Poetry, Planetary hours (Astrology)—Poetry, Gay artists—Poetry, Parapsychology and sex—Poetry, Canadian poetry—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 B85 2025" },
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 B85 2025"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "811/.6—dc23" },
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728b"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBTQ+"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE023020 POETRY / Subjects & Themes / Love & Erotica"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL44273310W/Bullets_in_the_Temple",
+    "https://www.goodreads.com/book/show/243079336-bullets-in-the-temple",
+    "https://www.google.ca/books/edition/Bullets_in_the_Temple_to_Open_Closed_Min/_yqq0AEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Diamond & Dagger",
+      "isbn": ["978-0-9950886-7-2", "978-0-9950886-6-5", "978-0-9950886-5-8", "9780995088672", "9780995088665", "9780995088658"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2021-10-19",
+      "genre": ["Erotic poetry", "Paranormal poetry", "Lyrical poetry", "Gay poetry"],
+      "description": "Two vagabonds, drawn together by fate and necromancy, seek to change their past while challenging fate and discovering what they need in each other.",
+      "url": "https://jonoborden.com/literature/p/diamond-and-dagger",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/c6673b84-5886-4d65-8bf4-e533becd9101/dd2021-front-cover.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Loneliness—Psychological aspects—Poetry, Philosophers—Poetry, Pornography—Moral and ethical aspects—Poetry, Tarot cards—Poetry, Occultism—Social aspects—Poetry, Canadian poetry—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 D53 2021"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 D53 2021"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "811/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728d"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBT"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE023020 POETRY / Subjects & Themes / Love & Erotica"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian / General"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL26451017W/Diamond_Dagger",
+    "https://www.goodreads.com/book/show/91012721-diamond-dagger",
+    "https://www.google.ca/books/edition/Diamond_and_Dagger/7N24yQEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Between the Silver and the Mirror",
+      "isbn": ["978-0-9950886-1-0", "978-0-9950886-0-3", "978-0-9918914-9-8", "9780995088610", "9780995088603", "9780991891498"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2017-10-17",
+      "genre": ["Gothic poetry", "Noir poetry", "Lyrical poetry", "Gay poetry"],
+      "description": "An artist struggles with fame, identity, and creation, questioning his ability to feel and connect with his own work in a cycle of decay and reflection.",
+      "url": "https://jonoborden.com/literature/p/between-the-silver-and-the-mirror",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/3b5df639-3a5f-4631-9e1d-a111b9af22d9/btsatm-cover-final.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Fame—Psychological aspects—Poetry, Identity (Philosophical concept)—Poetry, Creation (Literary, artistic, etc.)—Poetry, Artists—Psychology—Poetry, Pride and vanity—Poetry, Canadian poetry—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 B48 2017"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 B48 2017"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "811/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728b"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBT"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL17723672W/Between_the_Silver_and_the_Mirror",
+    "https://www.goodreads.com/book/show/107246157-between-the-silver-and-the-mirror",
+    "https://www.google.ca/books/edition/Between_the_Silver_and_the_Mirror/L0mrswEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Simple Simony",
+      "isbn": ["978-0-9918914-2-9", "978-0-9918914-1-2", "978-0-9918914-0-5", "9780991891429", "9780991891412", "9780991891405"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2013-10-22",
+      "genre": ["Biographical poetry", "Linked verse", "Lyrical poetry", "Gay poetry"],
+      "description": "Ex-libertine Eran Nero recounts 25 years of upheaval, exploring exploitation, self-redemption, and the cracks in his mythic journey through poetic cycles.",
+      "url": "https://jonoborden.com/literature/p/simple-simony",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/b28d805f-8580-44ca-8e71-02ec49d81716/1000039920.png",
+      "offers": [
+        { "@type": "Offer", "price": "19.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "9.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "9.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Canadian poetry—Nova Scotia, Canadian poetry—Nova Scotia—Halifax, Canadian poetry—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 S56 2013"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 S56 2013"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "811/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728s"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBT"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL17051476W/Simple_Simony",
+    "https://www.goodreads.com/book/show/97452254-simple-simony",
+    "https://www.google.ca/books/edition/Simple_Simony/mHl0mQEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Prologue to an Echo: Seven Tales",
+      "isbn": ["978-1-990382-10-9", "978-1-990382-09-3", "978-1-990382-08-6", "9781990382109", "9781990382093", "9781990382086"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2024-10-31",
+      "genre": ["Horror fiction", "Short stories", "Paranormal fiction", "Linked stories"],
+      "description": "A seven-night fable of reprobates, where characters’ Faustian choices unleash sin’s evils, questioning free will, fate, and the haunting cost of despair.",
+      "url": "https://jonoborden.com/literature/p/prologue-to-an-echo",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/750576e8-528a-43ed-9dac-16b4a87cd480/Prologue+to+an+Echo+%28Front+Cover%29.png",
+      "offers": [
+        { "@type": "Offer", "price": "9.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "3.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Demonology—Fiction, Occultism—Fiction, Ghosts—Fiction, Horror tales, Canadian—21st century, Paranormal fiction, Canadian—21st century, Short stories, Canadian—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 P76 2024"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 P76 2024"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "813/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728p"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC015000 FICTION / Horror"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC024000 FICTION / Occult & Supernatural"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC029000 FICTION / Short Stories (single author)"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL44273167W/Prologue_to_an_Echo",
+    "https://www.goodreads.com/book/show/243079292-prologue-to-an-echo",
+    "https://www.google.ca/books/edition/Prologue_to_an_Echo/OZ4_0QEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Cor Hydræ (Heart of the Snake): Twisted Tales",
+      "isbn": ["978-1-990382-02-4", "978-1-990382-01-7", "978-1-990382-00-0", "9781990382024", "9781990382017", "9781990382000"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2023-10-17",
+      "genre": ["Psychological fiction", "Short stories", "Gothic fiction", "Linked stories"],
+      "description": "Twisted tales centering on Alphard, exploring immortality and temptation through gothic, absurd stories that defy classification and delve into esoteric darkness.",
+      "url": "https://jonoborden.com/literature/p/cor-hydrae",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/dbb6207d-e52e-409a-b6ce-c2d9cd36b389/cor-hydrae-heart-of-the-snake-front-cover.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Hermits—Fiction, Constellations—Fiction, Hydra (Greek mythology)—Fiction, Immortality—Fiction, Temptation—Fiction, Short stories, Canadian—21st century",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 C67 2023"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 C67 2023"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "813/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728c"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC029000 FICTION / Short Stories (single author)"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC039000 FICTION / Visionary & Metaphysical"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC027040 FICTION / Gothic"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL36000984W/Cor_Hydr%C3%A6_(Heart_of_the_Snake)",
+    "https://www.goodreads.com/book/show/243079265-cor-hydr-heart-of-the-snake",
+    "https://www.google.ca/books/edition/Cor_Hydr%C3%A6_Heart_of_the_Snake/pxZozgEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Where the Willow Does Not Weep",
+      "isbn": ["978-0-9950886-4-1", "978-0-9950886-3-4", "978-0-9950886-2-7", "9780995088641", "9780995088634", "9780995088627"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2019-10-22",
+      "genre": ["Epic fiction", "Historical fiction", "Paranormal fiction", "Family histories"],
+      "description": "A family bound by dark pacts, cursed by ancient vows. A tale of power, fate, and inherited sins—where no confession can undo their transgressions.",
+      "url": "https://jonoborden.com/literature/p/where-the-willow-does-not-weep",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/140f63a0-12e1-4f8f-ba4c-0f3922c7e739/front-cover-proposal-a.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Borden family—Fiction, Family secrets—Fiction, Demonology—Fiction, New England—History—Colonial period, ca. 1600–1775—Fiction, Nova Scotia—History—Fiction, Surveyors—Fiction",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 W44 2019"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 W44 2019"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "813/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728w"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC039000 FICTION / Visionary & Metaphysical"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC008000 FICTION / Sagas"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "FIC031020 FICTION / Thrillers / Historical"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL20357375W/Where_the_Willow_Does_Not_Weep",
+    "https://www.goodreads.com/book/show/110606239-where-the-willow-does-not-weep",
+    "https://www.google.ca/books/edition/Where_the_Willow_Does_Not_Weep/cqSrtQEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Isaac & Iskandar",
+      "isbn": ["978-0-9918914-8-1", "978-0-9918914-7-4", "978-0-9918914-6-7", "9780991891450", "9780991891443", "9780991891436"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2015-10-20",
+      "genre": ["Erotic poetry", "Political poetry", "Novels in verse", "Gay poetry"],
+      "description": "Amid Iran's 2009 election, Canadian journalist Isaac meets rebel Iskandar, exploring freedom, sacrifice, and love in a verse novel of defiance and desire.",
+      "url": "https://jonoborden.com/literature/p/isaac-and-iskandar",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/42d93e18-f938-417d-8f96-52c676999081/isaac-iskandar-front-cover.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "EPUB" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Iran—History—Election protests, 2009—Poetry, Iran—History—Election protests, 2009—Fiction",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PR9299.4.B673 I82 2015"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PS8603.O716 I82 2015"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "811/.6—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "819.154 B728i"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBT"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE014000 POETRY / Epic"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL17198692W/Isaac_Iskandar",
+    "https://www.goodreads.com/book/show/97448867-isaac-iskandar",
+    "https://www.google.ca/books/edition/Isaac_and_Iskandar/t4X4oAEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Catalogus Librorum Impressorum Bibliothecæ Ionathani Bordenii",
+      "isbn": ["978-0-9950886-9-6", "978-0-9950886-8-9", "9780995088696", "9780995088689"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2021-01-22",
+      "genre": ["Grimoires", "Collection catalogs", "Bibliographies", "Library catalogs"],
+      "description": "Jono Borden’s private library of 2,000 volumes on magic, occultism, poetry, and religion, cataloged in Latin and English by Library of Congress standards.",
+      "url": "https://jonoborden.com/literature/p/catalogus-bibliothecae-ionathani-bordenii",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/913411a3-0764-4db1-86dc-3c1d1b4cb330/catalogvs-mmxxi-front-cover.png",
+      "offers": [
+        { "@type": "Offer", "price": "14.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "4.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Borden, Jono, 1987– —Library—Catalogs, Bibliotheca Ionathani Bordenii—Catalogs, Private libraries—Canada—Catalogs, Book collectors—Canada, Magic—Bibliography—Catalogs, Occultism—Bibliography—Catalogs",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "Z997.B67 2021"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "017/.2—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "017.2 B728c"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "LAN025030 LANGUAGE ARTS & DISCIPLINES / Library & Information Science / Cataloging & Classification"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "LAN025020 LANGUAGE ARTS & DISCIPLINES / Library & Information Science / Archives & Special Libraries"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "REF004000 REFERENCE / Bibliographies & Indexes"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL24195231W/Catalogus_Librorum_Impressorum_Bibliothec%C3%A6_Ionathani_Bordenii",
+    "https://www.goodreads.com/book/show/81497958-catalogus-librorum-impressorum-bibliothec-ionathani-bordenii",
+    "https://www.google.ca/books/edition/Catalogus_Bibliothec%C3%A6_Ionathani_Bordeni/9SWXzQEACAAJ"
+  ]
+    },
+    {
+      "@type": "Book",
+      "name": "Lightning in the Veins",
+      "isbn": ["978-1-990382-03-1", "978-1-990382-04-8", "9781990382031", "9781990382048"],
+      "author": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#publisher" },
+      "datePublished": "2023-01-22",
+      "genre": ["Biographical films", "Screenplays", "Historical films", "Gay films"],
+      "description": "The notorious life of Lord Byron, a restless poet driven to liberate himself and others from the oppressive forces of a changing world.",
+      "url": "https://jonoborden.com/literature/p/lightning-in-the-veins",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/dabd64ea-769f-47fc-b7fc-bcb82d0c1357/lightning-in-the-veins-concept-art-q.png",
+      "offers": [
+        { "@type": "Offer", "price": "16.95", "priceCurrency": "CAD", "description": "Trade Paperback" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "PDF" }
+      ],
+      "keywords": "Byron, George Gordon Byron, Baron, 1788–1824—Friends and associates—Drama, Byron, George Gordon Byron, Baron, 1788–1824—Relations with men—Drama, Byron, George Gordon Byron, Baron, 1788–1824—Relations with women—Drama, Byron, George Gordon Byron, Baron, 1788–1824—Sexual behavior—Drama, Poets, English—19th century—Biography—Drama, Popular culture—History—19th century—Drama",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "PN1997.3.L54 2023"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "791.43/72—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "791.4372 B728l"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "791.4372 L544b"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "PER016000 PERFORMING ARTS / Screenplays"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "PER004050 PERFORMING ARTS / Film / Screenwriting"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "PER004120 PERFORMING ARTS / Film / Genres / Historical"}
+      ],
+      "sameAs": [
+    "https://openlibrary.org/works/OL36000986W/Lightning_in_the_Veins",
+    "https://www.goodreads.com/book/show/243079155-lightning-in-the-veins",
+    "https://www.google.ca/books/edition/Lightning_in_the_Veins/fW6rzwEACAAJ"
+  ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "name": "7×5 (Uncut)",
+      "isbn": ["978-0-9918914-8-1", "978-0-9918914-7-4", "978-0-9918914-6-7", "9780991891481", "9780991891474", "9780991891467"],
+      "byArtist": { "@id": "https://jonoborden.com/#person" },
+      "publisher": { "@id": "https://jonoborden.com/#records" },
+      "datePublished": "2016-10-18",
+      "genre": ["Musical settings, Studio recordings, Poetry readings (Sound recordings), Spoken word poetry"],
+      "description": "Provocateur-poet Jono Borden delivers a provocative double album of confessions, blending fantasy, culture clashes, and the pains of literary life.",
+      "url": "https://jonoborden.com/literature/p/7x5",
+      "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/62930563-1f38-489f-ba79-f805c37fc468/4397.png",
+      "offers": [
+        { "@type": "Offer", "price": "26.99", "priceCurrency": "CAD", "description": "Vinyl" },
+        { "@type": "Offer", "price": "16.99", "priceCurrency": "CAD", "description": "CD" },
+        { "@type": "Offer", "price": "6.99", "priceCurrency": "CAD", "description": "Digital Download" }
+      ],
+      "keywords": "Autobiographical poetry, Erotic poetry, Lyric poetry, Spoken word poetry, Rock music—Canada—2011–2020, Popular music—Canada—2011–2020",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "MPN", "value": "Cat. No. JBR8"},
+        { "@type": "PropertyValue", "propertyID": "MPN", "value": "Cat. No. JBR7"},
+        { "@type": "PropertyValue", "propertyID": "MPN", "value": "Cat. No. JBR6"},
+        { "@type": "PropertyValue", "propertyID": "LCC", "value": "M1679.18.B67 S48 2016"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "782.42/164—dc23"},
+        { "@type": "PropertyValue", "propertyID": "DDC", "value": "782.42164 B673s"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE021000 POETRY / LGBT"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE023020 POETRY / Subjects & Themes / Love & Erotica"},
+        { "@type": "PropertyValue", "propertyID": "BISAC", "value": "POE011000 POETRY / Canadian"}
+      ]
+    },
+{
+  "@type": "Movie",
+  "@id": "https://jonoborden.com/cinema/lightning-in-the-veins/#movie",
+  "name": "Lightning in the Veins",
+  "alternateName": "Mister Superstar",
+  "description": "The notorious life of superstar Lord Byron, a restless poet whose determination to free and find himself in a changing world finds him freeing those oppressed by the same forces.",
+  "image": [
+    "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/ee29b5f5-ac1d-481c-9059-4e52b0afbea7/Lightning+in+the+Veins+Teaser+Poster+%28Design+C%29.webp",
+    "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/3e84db2e-cc4c-43ed-9d58-265ea3cc5409/Mister+Superstar+Teaser+Poster+%28Design+C%29.webp"
+  ],
+  "sameAs": [
+    "https://lightningintheveins.com",
+    "https://mistersuperstar.com",
+    "https://ritualisticpictures.com",
+    "https://jonoborden.com/cinema/lightning-in-the-veins",
+    "https://jonoborden.com/cinema/lightning-in-the-veins/posters",
+    "https://jonoborden.com/cinema/mister-superstar/posters",
+    "https://jonoborden.com/cinema",
+    "https://openlibrary.org/works/OL36000986W/Lightning_in_the_Veins",
+    "https://www.goodreads.com/book/show/243079155-lightning-in-the-veins",
+    "https://www.google.ca/books/edition/Lightning_in_the_Veins/fW6rzwEACAAJ",
+    "https://www.imdb.com/title/tt33492055"
+  ],
+  "datePublished": "2027-01-22",
+  "genre": ["Biography", "Horror", "Romance"],
+  "countryOfOrigin": {
+    "@type": "Country",
+    "name": "Canada"
+  },
+  "productionCompany": {
+    "@id": "https://jonoborden.com/#cinema"
+  },
+  "author": { 
+    "@id": "https://jonoborden.com/#person" 
+  },
+  "executiveProducer": { 
+    "@id": "https://jonoborden.com/#person" 
+  },
+  "musicBy": {
+    "@type": "Person",
+    "@id": "https://jonoborden.com/#person",
+    "jobTitle": "Music Supervisor"
+  }
+},    
+    {
+  "@type": "Product",
+  "@id": "https://jonoborden.com/literature/p/handwritten-poem/#product",
+  "name": "Handwritten Poem",
+  "description": "A bespoke handwritten poem, scribed by Jono Borden himself in his finest presentation hand, each piece dedicated, inscribed, and signed by the author. Choose from the bard's prolific archive of verse, whether a Lyric, Drama, or Epic, and have it carefully transcribed for you on high-quality paper.",
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/21496dac-5c87-41ca-bc98-0a99141d39e5/1000040016.png",
+  "url": "https://jonoborden.com/literature/p/handwritten-poem",
+  "category": "Collectible",
+  "keywords": "Handwritten Poem, Bespoke Verse, Personalized Poetry, Jono Borden, Handwritten Art, Poetry for Framing, Literary Craftsmanship, Bespoke Poetry, Handwritten Verse, Personalized Gifts",
+  "inLanguage": "en-US",
+  "mpn": ["Cat. No. BIB1", "Cat. No. BIB2", "Cat. No. BIB3"],
+  "manufacturer": {
+    "@id": "https://jonoborden.com/#publisher"
+  },
+  "creator": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Bibliophiles, poetry enthusiasts, manuscript collectors, literary scholars"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "CAD",
+    "offerCount": "3",
+    "lowPrice": 73.00,
+    "highPrice": 109.00,
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#publisher"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Lyric (Short Poem)",
+        "sku": "Cat. No. BIB1",
+        "price": "73.00",
+        "description": "Confession, 1–45 lines, circa 1–2 pages."
+      },
+      {
+        "@type": "Offer",
+        "name": "Drama (Mid-Length Poem)",
+        "sku": "Cat. No. BIB2",
+        "price": "91.00",
+        "description": "Dialogue, 46–90 lines, circa 2–4 pages."
+      },
+      {
+        "@type": "Offer",
+        "name": "Epic (Long Poem)",
+        "sku": "Cat. No. BIB3",
+        "price": "109.00",
+        "description": "Narrative, 91–135+ lines, circa 4–6+ pages."
+      }
+    ]
+  }
+},
+    {
+  "@type": "Product",
+  "@id": "https://jonoborden.com/literature/p/autographed-portrait/#product",
+  "name": "Autographed Portrait",
+  "description": "An autographed portrait is more than a photograph—it is a fixed presence, a moment seized and consecrated. Each image carries echoes of old Hollywood glamour and is individually signed, inscribed, or left as a mark of authorship. Select from variations Alpha, Beta, Gamma, Delta, or Epsilon.",
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/02374269-7858-4b7e-8bd4-dfb5bc93d6fd/Jono+Borden+%E2%80%93+Autographed+Portrait+%28Inscription%29.webp",
+  "url": "https://jonoborden.com/literature/p/autographed-portrait",
+  "category": "Collectible",
+  "keywords": "Autographed Portrait, Jono Borden, Signature, Inscribed Portrait, Personalized Art, Relic Photography, Cultural Artifact, Hollywood Glamour, Photographic Print, Signature Portraits, Personalized Inscriptions, Relic",
+  "inLanguage": "en-US",
+  "mpn": ["Cat. No. BIB4", "Cat. No. BIB5"],
+  "manufacturer": {
+    "@id": "https://jonoborden.com/#publisher"
+  },
+  "creator": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Cinephiles, photography enthusiasts, memorabilia collectors, film scholars"
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "CAD",
+    "offerCount": "2",
+    "lowPrice": "19.00",
+    "highPrice": "28.00",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#publisher"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Signature",
+        "sku": "Cat. No. BIB4",
+        "price": "19.00",
+        "description": "Autograph, 1–2 names 'JONO' or 'JONO BORDEN', 1 image."
+      },
+      {
+        "@type": "Offer",
+        "name": "Inscription",
+        "sku": "Cat. No. BIB5",
+        "price": "28.00",
+        "description": "Dedication, Message, Autograph, 1–4 lines dedication/message, 1–2 names 'JONO' or 'JONO BORDEN', 1 image."
+      }
+    ]
+  }
+},
+    {
+  "@type": "Product",
+  "@id": "https://jonoborden.com/literature/p/ritual-reliquary-bespoke-archive/#product",
+  "name": "Ritual Reliquary (Bespoke Archive)",
+  "description": "The Ritual Reliquary is a physicalized haunting—a permanent vessel for a fleeting, singular transmission. Each reliquary includes a bespoke poem written, performed, and captured on a wooden USB housed in a wooden keepsake box. A unique intersection of the digital ghost and the organic relic.",
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/ddf529c0-01ff-4bb6-9c77-0c1a15b1213f/wmremove-transformed.jpeg",
+  "url": "https://jonoborden.com/literature/p/ritual-reliquary-bespoke-archive",
+  "category": "Collectible",
+  "keywords": "Ritual Reliquary, Bespoke Archive, Physicalized Media, Wooden USB, Spoken-Word Commission, Archival Poetry, Digital-Organic Hybrid, Ritualistic Performance, One-of-a-kind Transmission, Handcrafted Keepsake, Digital Ghost, Organic Relic, Jono Borden, Private Ritual, Spectral Archive",
+  "inLanguage": "en-US",
+  "mpn": "Cat. No. BIB6",
+  "sku": "Cat. No. BIB6",
+  "manufacturer": {
+    "@id": "https://jonoborden.com/#publisher"
+  },
+  "creator": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Discriminating collectors, patrons of the esoteric, private archivists, artisanal tech enthusiasts, literary scholars, bibliophiles, relic hunters, audiophiles"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "Commissioned Vocal Transmission",
+    "price": "190.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@id": "https://jonoborden.com/#publisher"
+    },
+    "description": "1 original poem composed, performed, and recorded; delivered as 2 digital files (MP3 and PDF) on 1 wooden USB in 1 wooden keepsake box."
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/tarot-card-reading/#service",
+  "name": "Tarot Card Reading",
+  "serviceType": "Divination",
+  "description": "Tarot readings using 3-5 card spreads, reflecting the seeker’s question or theme. A storied tradition of insight and spiritual guidance offering intuitive energy mapping and symbolic interpretation.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/35abce3b-dd2b-41c0-a36b-958ce7ef5056/Aquilifer+-+Tarot+Card+Reading.jpg",
+  "url": "https://jonoborden.com/literature/p/tarot-card-reading",
+  "keywords": "Tarot Reading, Tarot Spread, Spiritual Guidance, Intuitive Insights, Tarot Cards, Card Interpretation, Tarot Divination, Seeker’s Question, Fortune Telling, Spiritual Reflection, Personal Growth, Tarot Consultations, Occult Practices, Three-card Spread, Four-card Spread, Five-card Spread, Tarot Themes, Alternative Tarot, Symbolic Reading, Divinatory Arts, Energy Mapping, Tarot Insights, Mystical Guidance",
+  "offers": {
+    "@type": "Offer",
+    "price": "28.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Available in Three-Card, Four-Card, or Five-Card formats."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about tarot"
+  },
+  "additionalType": "https://en.wikipedia.org/wiki/Tarot_reading"
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/lenormand-card-reading/#service",
+  "name": "Lenormand Card Reading",
+  "serviceType": "Divination",
+  "description": "Lenormand card readings focus on practical matters, using 2-3 card spreads to interpret the relationships between pairs of cards for clear, grounded guidance.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/5cf24f37-5539-41b6-8a34-22e486f9ebf3/Aquilifer+-+Lenormand+Card+Reading.png",
+  "url": "https://jonoborden.com/literature/p/lenormand-card-reading",
+  "keywords": "Lenormand Reading, Card Pairing, Practical Guidance, Two-card Spread, Three-card Spread, Lenormand Cards, Interpretation of Pairs, Fortune Telling, Practical Divination, Grounded Insights, Mystical Guidance, Spiritual Reflection, Occult Practices, Clarity and Direction, Lenormand Divination, Symbolic Reading, Card Relationships",
+  "offers": {
+    "@type": "Offer",
+    "price": "19.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Available in Two-Card or Three-Card formats focusing on practical card relationships."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about Lenormand"
+  },
+  "additionalType": "https://en.wikipedia.org/wiki/Lenormand_cards"
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/playing-card-reading/#service",
+  "name": "Playing Card Reading",
+  "serviceType": "Divination",
+  "description": "Playing card readings use 3-5 card spreads to reveal practical, earthy wisdom. Provides insight into one question or theme, utilizing the storied tradition of cartomancy with ordinary cards.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/f11795d2-50e7-4c9f-9443-4c67520fb7dc/processed_Aquilifer+-+Playing+Card+Reading.jpg",
+  "url": "https://jonoborden.com/literature/p/playing-card-reading",
+  "keywords": "Playing Card Reading, Card Spread, Earthy Wisdom, Practical Divination, Three-card Spread, Four-card Spread, Five-card Spread, Fortune Telling, Ordinary Cards, Pithy Insights, Gritty Sorcery, Everyday Divination, Spiritual Reflection, Occult Practices, Divination with Playing Cards, Symbolic Reading",
+  "offers": {
+    "@type": "Offer",
+    "price": "10.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Available in Three-Card, Four-Card, or Five-Card formats."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about cartomancy"
+  },
+  "additionalType": "https://en.wikipedia.org/wiki/Cartomancy"
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/oracle-card-reading/#service",
+  "name": "Oracle Card Reading",
+  "serviceType": "Divination",
+  "description": "Oracle card readings use single-card pulls, multi-card spreads, or customized layouts based on the deck’s unique symbolism to provide insightful guidance and intuitive energy mapping.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/bab04072-000b-4ccf-965b-cd2413ddbae2/processed_Aquilifer+-+Oracle+Card+Reading.jpg",
+  "url": "https://jonoborden.com/literature/p/oracle-card-reading",
+  "keywords": "Oracle Card Reading, Single-Card Pull, Multi-Card Spread, Customized Spread, Deck Symbolism, Divination, Spiritual Guidance, Personal Insight, Intuitive Reading, Tarot Alternative, Energy Mapping, Occult Practices, Card Interpretation, Flexible Layout, Spiritual Reflection",
+  "offers": {
+    "@type": "Offer",
+    "price": "37.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Available as Single-Card Pull, Multi-Card Spread, or Customized Oracle Layouts, including branded and custom options."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about oracles"
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/incantation-composition/#service",
+  "name": "Incantation Composition",
+  "serviceType": "Incantation",
+  "description": "A ceremonial magician poet creates an original charm for ritual use, where language acts as a magical force, turning incantations into powerful rituals.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/d89e0f36-ee3e-4106-81f1-ac28c0f47edd/processed_Aquilifer+-+Incantation+Composition.jpg",
+  "url": "https://jonoborden.com/literature/p/incantation-composition",
+  "keywords": "Incantation, Composition, Ritual, Magic, Charm, Ceremonial magician, Language as magic, Original charm, Poetic magic, Ritual workings",
+  "offers": {
+    "@type": "Offer",
+    "price": "55.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Customized Incantation Composition based on specific Intention or Theme."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about incantations"
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/words-of-power-composition/#service",
+  "name": "Word(s) of Power Composition",
+  "serviceType": "Incantation",
+  "description": "Powerful words or phrases resonate, influencing minds and actions. Commissions are strictly confidential, as words of power can bring unforeseen consequences through vibration, resonance, and will.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/12268d0a-3fa8-40d6-b2e8-03edb7b558ff/Aquilifer+-+Word%28s%29+of+Power+Composition.png",
+  "url": "https://jonoborden.com/literature/p/words-of-power-composition",
+  "keywords": "Word(s) of power, Vibration, Speech, Resonance, Influence, Action, Confidential, Mind control, Will, Commission, Power, Abracadabra",
+  "offers": {
+    "@type": "Offer",
+    "price": "46.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Customized Word(s) of Power Composition based on a specific Intention or Theme. All commissions are handled with absolute confidentiality."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about incantations"
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/sigil-design-composition-and-consecration/#service",
+  "name": "Sigil Design, Composition, and Consecration",
+  "serviceType": "Sigil",
+  "description": "Sigils are unique seals used to refine intentions and connect with spirits, acting as signatures that influence the Universe and guide ritual workings. This service includes the custom design, composition, and ritual consecration of a unique seal.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/f8201795-f954-48c3-ab83-8650a6d00227/Aquilifer+-+Sigil+Design.png",
+  "url": "https://jonoborden.com/literature/p/sigil-design-composition-and-consecration",
+  "keywords": "Sigil, Design, Composition, Consecration, Spirit contact, Intention, Universe, Ritual workings, Seal, Mind influence, Signature",
+  "offers": {
+    "@type": "Offer",
+    "price": "64.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Customized Sigil based on specific Intention or Theme, including the design and consecration process."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about sigils"
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/talisman-design-composition-and-consecration/#service",
+  "name": "Talisman Design, Composition, and Consecration",
+  "serviceType": "Talisman",
+  "description": "Talismans hold magical power by carrying the potential of spirits through their material, actualizing a symbol's power and attracting corresponding attributes. This service involves the bespoke design and ritual consecration of a potent magical object.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/cc76ce80-7742-447f-891a-33259098182c/Aquilifer+-+Talisman+Design.jpg",
+  "url": "https://jonoborden.com/literature/p/talisman-design-composition-and-consecration",
+  "keywords": "Talisman, Design, Composition, Consecration, Spirit, Magical power, Symbol, Material, Attributes, Actualization, Correspondence",
+  "offers": {
+    "@type": "Offer",
+    "price": "73.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Customized Talisman based on specific Intention or Theme, focusing on the material actualization of symbols and correspondences."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about talismans"
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/consultation-by-aquilifer-eremita-urbanus/#service",
+  "name": "Consultation by Aquilifer Eremita Urbanus",
+  "serviceType": "Consultation",
+  "description": "Gain a detailed review of your magical practice and outcomes, guided by an experienced consultant with a discerning eye, ensuring success in your operations through intentional action and ritual planning.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/db5f51b4-ca8b-44fd-a8cb-a004f3b90bff/processed_Aquilifer+-+Consultation.jpg",
+  "url": "https://jonoborden.com/literature/p/consultation-by-aquilifer-eremita-urbanus",
+  "keywords": "Consultation, Magic practice, Intentional action, Ritual, Planning, Outcome review, Experienced guidance, Successful operations, Will, Manifestation",
+  "offers": {
+    "@type": "Offer",
+    "price": "82.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Personalized Consultation regarding magical intentions, themes, and operational success."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about ritual practice"
+  }
+},
+    {
+  "@type": "Service",
+  "@id": "https://jonoborden.com/literature/p/audience-with-aquilifer-eremita-urbanus/#service",
+  "name": "Audience with Aquilifer Eremita Urbanus",
+  "serviceType": "Consultation",
+  "description": "Engage in a private mentorship where ancient occult truths are shared. This audience facilitates the transmission of magic secrets through oral tradition, with a master guiding the protégé in their magical craft.",
+  "provider": {
+    "@id": "https://jonoborden.com/#spiritual"
+  },
+  "participant": {
+    "@id": "https://jonoborden.com/#person"
+  },
+  "image": "https://images.squarespace-cdn.com/content/v1/68cea68d6d807265249ce83d/aab1bd58-cf71-44c2-903e-42769b160773/processed_Aquilifer+-+Wisdom.jpg",
+  "url": "https://jonoborden.com/literature/p/audience-with-aquilifer-eremita-urbanus",
+  "keywords": "Audience, Mentorship, Occult tradition, Oral tradition, Magic secrets, Mentor, Protégé, Ancient knowledge, Magical craft, Teaching, Apprenticeship",
+  "offers": {
+    "@type": "Offer",
+    "price": "91.00",
+    "priceCurrency": "CAD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@id": "https://jonoborden.com/#spiritual"
+    },
+    "description": "Private Mentoring session focused on the transmission of occult tradition and intentional themes."
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Spiritual seekers, individuals seeking guidance, those curious about ceremonial magic"
+  }
+},
+    {
+      "@type": "ItemList",
+      "name": "Crawl Map / Sitemap",
+      "description": "Direct index of all site paths for deep-indexing.",
+      "itemListElement": [
+        "https://jonoborden.com",
+"https://jonoborden.com/literature",
+"https://jonoborden.com/literature/p/new-pornographies",
+"https://jonoborden.com/literature/p/bullets-in-the-temple",
+"https://jonoborden.com/literature/p/prologue-to-an-echo",
+"https://jonoborden.com/literature/p/cor-hydrae",
+"https://jonoborden.com/literature/p/lightning-in-the-veins",
+"https://jonoborden.com/literature/p/diamond-and-dagger",
+"https://jonoborden.com/literature/p/catalogus-bibliothecae-ionathani-bordenii",
+"https://jonoborden.com/literature/p/where-the-willow-does-not-weep",
+"https://jonoborden.com/literature/p/between-the-silver-and-the-mirror",
+"https://jonoborden.com/literature/p/7x5",
+"https://jonoborden.com/literature/p/isaac-and-iskandar",
+"https://jonoborden.com/literature/p/simple-simony",
+"https://jonoborden.com/literature/p/handwritten-poem",
+"https://jonoborden.com/literature/p/autographed-portrait",
+"https://jonoborden.com/literature/p/ritual-reliquary-bespoke-archive",
+"https://jonoborden.com/literature/p/tarot-card-reading",
+"https://jonoborden.com/literature/p/lenormand-card-reading",
+"https://jonoborden.com/literature/p/playing-card-reading",
+"https://jonoborden.com/literature/p/oracle-card-reading",
+"https://jonoborden.com/literature/p/incantation-composition",
+"https://jonoborden.com/literature/p/words-of-power-composition",
+"https://jonoborden.com/literature/p/sigil-design-composition-and-consecration",
+"https://jonoborden.com/literature/p/talisman-design-composition-and-consecration",
+"https://jonoborden.com/literature/p/consultation-by-aquilifer-eremita-urbanus",
+"https://jonoborden.com/literature/p/audience-with-aquilifer-eremita-urbanus",
+"https://jonoborden.com/cinema",
+"https://jonoborden.com/cinema/the-company",
+"https://jonoborden.com/cinema/our-work-and-films",
+"https://jonoborden.com/cinema/in-development",
+"https://jonoborden.com/cinema/the-team",
+"https://jonoborden.com/cinema/behind-the-scenes",
+"https://jonoborden.com/cinema/philosophy",
+"https://jonoborden.com/cinema/origin-story",
+"https://jonoborden.com/cinema/lightning-in-the-veins",
+"https://jonoborden.com/cinema/lightning-in-the-veins/posters",
+"https://jonoborden.com/cinema/mister-superstar/posters",
+"https://jonoborden.com/sorcery",
+"https://jonoborden.com/diabologue",
+"https://jonoborden.com/diabologue/2025/12/25/vox-nihili",
+"https://jonoborden.com/diabologue/2025/12/25/in-the-storm-of-life",
+"https://jonoborden.com/diabologue/2025/12/25/dont-live-forever",
+"https://jonoborden.com/diabologue/2025/12/25/count-on-me-to-be-all-the-things-you-dont-want-to-seem",
+"https://jonoborden.com/diabologue/2025/12/25/making-the-same-mistakes-my-soul-searches-for-me",
+"https://jonoborden.com/diabologue/2025/12/25/venus-in-scorpio",
+"https://jonoborden.com/diabologue/2025/12/25/handsome-handgun-handjob-understall",
+"https://jonoborden.com/diabologue/2025/12/25/no-kickin-those-ol-boot-lickin-blues",
+"https://jonoborden.com/diabologue/2025/12/25/swallowing-bullets",
+"https://jonoborden.com/diabologue/2025/12/25/kevlar-jockstrap",
+"https://jonoborden.com/diabologue/2025/12/18/this-isnt-a-ritual",
+"https://jonoborden.com/diabologue/2025/12/18/youll-know-me-in-your-marrow",
+"https://jonoborden.com/diabologue/2025/12/18/ostentatio-genitalium",
+"https://jonoborden.com/diabologue/2025/12/18/dust-on-our-tongues",
+"https://jonoborden.com/diabologue/2025/12/18/dissolve-into-fire",
+"https://jonoborden.com/diabologue/2025/12/18/decay-into-sleep-swiftly",
+"https://jonoborden.com/diabologue/2025/12/18/words-leak-into-dreams",
+"https://jonoborden.com/diabologue/2025/12/18/orgasm-in-an-asylum",
+"https://jonoborden.com/diabologue/2025/12/18/the-devil-enters-adams-lips",
+"https://jonoborden.com/diabologue/2025/12/18/with-all-the-anxiety-of-pandora-opening-her-inbox-post-partum-post-script",
+"https://jonoborden.com/diabologue/2025/11/25/soft-core-heavy-breather-unknown-caller",
+"https://jonoborden.com/diabologue/2025/11/25/highlights-of-a-lowlife-a-crinoline-rush-gone-autopsy-turvy",
+"https://jonoborden.com/diabologue/2025/11/25/beardo-in-the-bardo",
+"https://jonoborden.com/diabologue/2025/11/25/soaked-in-chromosomes",
+"https://jonoborden.com/diabologue/2025/11/25/when-the-blood-does-not-know-to-stop",
+"https://jonoborden.com/diabologue/2025/11/25/ulysses-gets-what-he-deserves",
+"https://jonoborden.com/diabologue/2025/11/25/i-cant-live-up-to-normal",
+"https://jonoborden.com/diabologue/2025/11/25/in-negative-decibels-black-veil",
+"https://jonoborden.com/diabologue/2025/11/25/doppelgangbang-body-double",
+"https://jonoborden.com/diabologue/2025/11/25/smothered-in-the-crib",
+"https://jonoborden.com/diabologue/2025/11/18/pour-like-honey",
+"https://jonoborden.com/diabologue/2025/11/18/adams-pants-fall",
+"https://jonoborden.com/diabologue/2025/11/18/loves-rages-and-jealousies-of-jono",
+"https://jonoborden.com/diabologue/2025/11/18/forbidden-mercies",
+"https://jonoborden.com/diabologue/2025/11/18/new-pornographies",
+"https://jonoborden.com/diabologue/2025/11/18/cosmetic-urology",
+"https://jonoborden.com/diabologue/2025/11/18/familiar-strangers",
+"https://jonoborden.com/diabologue/2025/11/18/famous-ruin",
+"https://jonoborden.com/diabologue/2025/11/18/laptop-to-lapdance",
+"https://jonoborden.com/diabologue/2025/11/18/parallel-obsessions",
+"https://jonoborden.com/diabologue/2025/10/25/a-backward-path-to-heaven",
+"https://jonoborden.com/diabologue/2025/10/25/oasis-in-the-ashes",
+"https://jonoborden.com/diabologue/2025/10/25/pactum-factum",
+"https://jonoborden.com/diabologue/2025/10/25/the-cost-of-dividing-yourself-in-two",
+"https://jonoborden.com/diabologue/2025/10/25/a-mythic-route-always-in-need-of-repair",
+"https://jonoborden.com/diabologue/2025/10/25/monolithic-riddle",
+"https://jonoborden.com/diabologue/2025/10/25/a-ruined-city-in-constant-reconstruction",
+"https://jonoborden.com/diabologue/2025/10/25/thinking-in-images",
+"https://jonoborden.com/diabologue/2025/10/25/falling-into-orbit",
+"https://jonoborden.com/diabologue/2025/10/25/majestic-desolate-allegory-of-celebrity",
+"https://jonoborden.com/diabologue/2025/09/25/hanging-cloud",
+"https://jonoborden.com/diabologue/2025/09/25/diminishing-ridges",
+"https://jonoborden.com/diabologue/2025/09/25/disco-about-death",
+"https://jonoborden.com/diabologue/2025/09/25/euthanized-in-shadowy-silhouette",
+"https://jonoborden.com/diabologue/2025/09/25/bonfire-in-bohemia",
+"https://jonoborden.com/diabologue/2025/09/25/moth-and-moon",
+"https://jonoborden.com/diabologue/2025/09/25/blood-libel",
+"https://jonoborden.com/diabologue/2025/09/25/the-shipwreck-of-introspection",
+"https://jonoborden.com/diabologue/2025/09/25/no-commitment-to-authenticity",
+"https://jonoborden.com/diabologue/2025/09/25/where-a-blessing-gathers",
+"https://jonoborden.com/diabologue/2025/08/25/the-deities-forgave-me",
+"https://jonoborden.com/diabologue/2025/08/25/wandering-martyr",
+"https://jonoborden.com/diabologue/2025/08/25/in-the-brittle-intimacy-of-a-crystal-gaze",
+"https://jonoborden.com/diabologue/2025/08/25/eight-feet-long-six-feet-deep",
+"https://jonoborden.com/diabologue/2025/08/25/lines-on-a-party-sized-mirror",
+"https://jonoborden.com/diabologue/2025/08/25/from-the-tongues-betrayal",
+"https://jonoborden.com/diabologue/2025/08/25/in-defense-of-despair",
+"https://jonoborden.com/diabologue/2025/08/25/entering-a-wound-scattering-salt-on-the-threshold",
+"https://jonoborden.com/diabologue/2025/08/25/cruel-erotics-lit-in-a-living-source-of-heat",
+"https://jonoborden.com/diabologue/2025/08/25/hellfire-where-my-heart-should-be",
+"https://jonoborden.com/diabologue/2025/07/25/trauma-as-loves-lost-subgenre",
+"https://jonoborden.com/diabologue/2025/07/25/in-an-alcove-of-the-bordello-selection-salon",
+"https://jonoborden.com/diabologue/2025/07/25/fixing-in-ink-a-prophetic-event",
+"https://jonoborden.com/diabologue/2025/07/25/immanent-in-starlight-and-stone",
+"https://jonoborden.com/diabologue/2025/07/25/epiphanies-of-wind-and-storm",
+"https://jonoborden.com/diabologue/2025/07/25/unaddressed-in-red-light",
+"https://jonoborden.com/diabologue/2025/07/25/seduction-in-a-black-corridor",
+"https://jonoborden.com/diabologue/2025/07/25/to-the-memory-of-an-unnamed-courtesan",
+"https://jonoborden.com/diabologue/2025/07/25/listed-in-the-register-of-pleasure-houses",
+"https://jonoborden.com/diabologue/2025/07/25/hymn-to-the-unconquered-sun",
+"https://jonoborden.com/diabologue/2025/06/25/toothless-love-ballad",
+"https://jonoborden.com/diabologue/2025/06/25/same-mood-same-word-different-font",
+"https://jonoborden.com/diabologue/2025/06/25/sweary-soundbites-sweaty-cameos",
+"https://jonoborden.com/diabologue/2025/06/25/third-act-twist",
+"https://jonoborden.com/diabologue/2025/06/25/age-of-betrayal",
+"https://jonoborden.com/diabologue/2025/06/25/footnote-for-a-title",
+"https://jonoborden.com/diabologue/2025/06/25/a-trickle-to-a-tidal-wave",
+"https://jonoborden.com/diabologue/2025/06/25/rarely-sober-always-somber",
+"https://jonoborden.com/diabologue/2025/06/25/older-than-religion",
+"https://jonoborden.com/diabologue/2025/06/25/diary-of-a-dirty-myth",
+"https://jonoborden.com/diabologue/2025/05/25/bruises-from-the-jewels",
+"https://jonoborden.com/diabologue/2025/05/25/witness-for-the-execution",
+"https://jonoborden.com/diabologue/2025/05/25/poete-maudit-poeme-noir",
+"https://jonoborden.com/diabologue/2025/05/25/underwritten",
+"https://jonoborden.com/diabologue/2025/05/25/now-become-lonely-without-love",
+"https://jonoborden.com/diabologue/2025/05/25/flowering-into-rot",
+"https://jonoborden.com/diabologue/2025/05/25/versions-of-hell",
+"https://jonoborden.com/diabologue/2025/05/25/via-transilvanica",
+"https://jonoborden.com/diabologue/2025/05/25/talented-mouth",
+"https://jonoborden.com/diabologue/2025/05/25/drugs-in-public",
+"https://jonoborden.com/diabologue/2025/03/05/the-way-you-occur-in-winter",
+"https://jonoborden.com/diabologue/2025/03/05/accidents-that-never-happened",
+"https://jonoborden.com/diabologue/2025/03/05/to-move-beyond-the-mirrors-edge",
+"https://jonoborden.com/diabologue/2025/03/05/andromeda-adams",
+"https://jonoborden.com/diabologue/2025/03/05/a-relative-stranger",
+"https://jonoborden.com/diabologue/2025/03/05/malted-milks-too-thick-for-a-straw",
+"https://jonoborden.com/diabologue/2025/03/05/approach-to-sleep",
+"https://jonoborden.com/diabologue/2025/03/05/petals-never-trembled",
+"https://jonoborden.com/diabologue/2025/03/05/in-loud-water",
+"https://jonoborden.com/diabologue/2025/03/05/closer-to-murder-than-to-love",
+"https://jonoborden.com/diabologue/2025/01/06/invitation-to-a-contradiction",
+"https://jonoborden.com/diabologue/2025/01/06/walking-into-a-lawsuit",
+"https://jonoborden.com/diabologue/2025/01/06/obsidian-aura",
+"https://jonoborden.com/diabologue/2025/01/06/thunder-smitten",
+"https://jonoborden.com/diabologue/2025/01/06/de-civitate-angelorum",
+"https://jonoborden.com/diabologue/2025/01/06/rip-status",
+"https://jonoborden.com/diabologue/2025/01/06/a-confession-in-wet-cement",
+"https://jonoborden.com/diabologue/2025/01/06/small-sorceries-enlarged-by-loss",
+"https://jonoborden.com/diabologue/2025/01/06/over-corpse-roads",
+"https://jonoborden.com/diabologue/2025/01/06/dont-choke-in-the-orchard",
+"https://jonoborden.com/biography",
+"https://jonoborden.com/biography/influences",
+"https://jonoborden.com/biography/ancestors",
+"https://jonoborden.com/biography/portraits",
+"https://jonoborden.com/biography/portraits/2024/alpha",
+"https://jonoborden.com/biography/portraits/2024/beta",
+"https://jonoborden.com/biography/portraits/2024/gamma",
+"https://jonoborden.com/biography/portraits/2020/alpha",
+"https://jonoborden.com/biography/portraits/2020/beta",
+"https://jonoborden.com/biography/portraits/2020/gamma",
+"https://jonoborden.com/biography/portraits/2020/delta",
+"https://jonoborden.com/biography/portraits/2020/epsilon",
+"https://jonoborden.com/biography/portraits/2016/alpha",
+"https://jonoborden.com/biography/portraits/2015/alpha",
+"https://jonoborden.com/biography/portraits/2015/beta",
+"https://jonoborden.com/biography/portraits/2013/alpha",
+"https://jonoborden.com/dogma",
+"https://jonoborden.com/dogma/terms-of-use",
+"https://jonoborden.com/dogma/acceptable-use-policy",
+"https://jonoborden.com/dogma/privacy-policy",
+"https://jonoborden.com/dogma/cookie-policy",
+"https://jonoborden.com/dogma/shipping-policy",
+"https://jonoborden.com/dogma/return-policy",
+"https://jonoborden.com/dogma/disclaimer",
+"https://jonoborden.com/dogma/impressum",
+"https://jonoborden.com/dogma/credits",
+"https://jonoborden.com/dogma/digital-preservation-policy",
+"https://jonoborden.com/inquiry",
+"https://jonoborden.com/transmutations",
+"https://jonoborden.com/transmutations/2026/01/07",
+"https://jonoborden.com/transmutations/2025/10/21/b",
+"https://jonoborden.com/transmutations/2025/10/21/a",
+"https://jonoborden.com/transmutations/2025/06/26",
+"https://jonoborden.com/transmutations/2025/05/03",
+"https://jonoborden.com/transmutations/2025/05/02",
+"https://jonoborden.com/transmutations/2025/03/19",
+"https://jonoborden.com/transmutations/2024/11/19",
+"https://jonoborden.com/transmutations/2024/06/24",
+"https://jonoborden.com/transmutations/2024/02/09",
+"https://jonoborden.com/transmutations/2023/02/14",
+"https://jonoborden.com/almanac",
+"https://jonoborden.com/visitations",
+"https://jonoborden.com/visitations/sorry",
+"https://jonoborden.com/visitations/apologies",
+"https://jonoborden.com/visitations/regrets",
+"https://jonoborden.com/#",
+"https://jonoborden.com/cart",
+"https://jonoborden.com/search",
+"https://jonoborden.com/error",
+"https://jonoborden.com/llms",
+"https://jonoborden.com/llms.txt",
+"https://jonoborden.com/graph",
+"https://jonoborden.com/graph.jsonld",
+"https://jonoborden.com/sitemap.xml",
+"https://jonoborden.com/literature?format=rss",
+"https://jonoborden.com/cinema/lightning-in-the-veins/posters?format=rss",
+"https://jonoborden.com/cinema/mister-superstar/posters?format=rss",
+"https://jonoborden.com/diabologue?format=rss",
+"https://jonoborden.com/biography/portraits?format=rss",
+"https://jonoborden.com/transmutations?format=rss",
+"https://jonoborden.com/visitations?format=rss"]}
+]
